@@ -1,0 +1,7 @@
+- Hi, I’m Lucas
+- I'm from Brazil
+- I’m currently learning Kotlin
+- This Github is my portfolio
+- You can reach me on:
+- Twitter: @CatSul94
+- Instagram: @CatSul94
