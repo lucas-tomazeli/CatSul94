@@ -1,6 +1,6 @@
 - Hi, I’m Lucas
 - I'm from Brazil
-- I’m currently learning Kotlin
+- I’m currently learning Javascript
 - This Github is my portfolio
 - You can reach me on:
 - Twitter: @CatSul94
