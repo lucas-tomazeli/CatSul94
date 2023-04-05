@@ -3,5 +3,5 @@
 - I’m currently learning Javascript
 - This Github is my portfolio
 - You can reach me on:
-- Twitter: @CatSul94
+- Linkedin: https://www.linkedin.com/in/lucas-tomazeli-aa6ab825b
 - Instagram: @CatSul94
